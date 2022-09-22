@@ -70,6 +70,8 @@ Questions to consider:
 
 ![classification accuracy](images/classification-accuracy.png)
 
+Achieving an accuracy of 95% on unseen data, we feel satisfied that this model performs well enough for our purposes and are proud of our results.
+
 ## Evaluation
 An evaluation of how well our work solves the organization's stated problems.
 
